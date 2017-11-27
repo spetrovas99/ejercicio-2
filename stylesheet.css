@@ -22,7 +22,7 @@ div{
 
 }
 span{
-	<b>   d  </b>
+	font-weight: bold;
 	font-size: 18px;
 	color: #ffffff;
 	
